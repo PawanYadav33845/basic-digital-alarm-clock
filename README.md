@@ -51,7 +51,6 @@ Status Label: Displays success, error, or status messages.
 Alarms List: Shows a list of all active alarms.
 
 Code Overview
-
 Clock and Date: Updates the current time and date every second.
 Alarms Management: Users can add, delete, and view active alarms.
 Alarm Notification: When the set time matches the current time, a pop-up is displayed, and a sound plays.
@@ -64,11 +63,15 @@ Include customization options for the alarm sound.
 Allow recurring alarms (e.g., daily, weekly).
 Add theme customization for light/dark mode.
 
+ScreenShots
+![alarm clock](https://github.com/user-attachments/assets/f92fad30-851b-42c7-a059-e199cc6e294f)
+![alarm](https://github.com/user-attachments/assets/ceeebf09-5fc2-4c1c-8953-7baa4ea80fa6)
+
+
 License
 This project is open-source and available for use under the MIT License.
 
 Contributing
 Feel free to submit issues or pull requests to improve this project. Contributions are welcome!
 
-Author
-Created by Pawan Yadav.
+Pawan Yadav.
